@@ -8,7 +8,7 @@ A smart contract security review can never verify the complete absence of vulner
 
 # About **Sentinel Labs**
 
-I an independent smart contract security researcher. Having found numerous security vulnerabilities in various protocols, I does my best to contribute to the blockchain ecosystem and its protocols by putting time and effort into security research & reviews. 
+We provide comprehensive Web3 smart contract auditing services to protect your decentralized applications. Our team is composed of industry-leading experts in blockchain security, specializing in identifying and mitigating critical vulnerabilities within smart contract logic. With extensive experience in auditing blockchain projects developed in Rust, Solidity, Move and Golang, we are adept at uncovering high-severity security flaws that could compromise the integrity of your project. Our expertise extends across the entire blockchain ecosystem, including Layer 1 and Layer 2 protocols. Our team members consistently rank among the top performers on prominent bug bounty platforms such as Immunefi, as well as public audit platforms like Code4rena
 
 # About **The Fund**
 
