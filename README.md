@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="sentinal.png" alt="Company Logo" width="200">
+</p>
 # Introduction
 
 A time-boxed security review of the **TheFund** protocol was done by **Sentinel Labs**, with a focus on the security aspects of the application's smart contracts implementation.
